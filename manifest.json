@@ -1,0 +1,10 @@
+{
+"name":"Publicador JSON",
+"short_name":"Publicador",
+"display":"standalone",
+"background_color":"#080b10",
+"theme_color":"#080b10",
+"start_url":"./index.html",
+"orientation":"portrait",
+"scope":"./"
+}
