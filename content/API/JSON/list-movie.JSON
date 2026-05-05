@@ -1010,5 +1010,13 @@
     "plataforma": [
       "Netflix"
     ]
+  },
+  "1541827": {
+    "id": 1541827,
+    "enlace": "https://rumble.com/hls-vod/6x6b4w/playlist.m3u8?u=0&b=0",
+    "tipo": "normal",
+    "plataforma": [
+      "National Geographic"
+    ]
   }
 }
