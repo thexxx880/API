@@ -1566,6 +1566,15 @@
       "Netflix"
     ]
   },
+  "1239146": {
+    "id": 1239146,
+    "enlace": "https://rumble.com/hls-vod/6y6g16/playlist.m3u8?u=0&b=0",
+    "tipo": "normal",
+    "plataforma": [
+      "Netflix",
+      "Universal"
+    ]
+  },
   "1239251": {
     "id": 1239251,
     "enlace": "https://hugh.cdn.rumble.cloud/video/s8/2/W/p/Y/g/WpYgq.aaa.mp4",
