@@ -1699,9 +1699,10 @@
   },
   "687163": {
     "id": 687163,
-    "enlace": "https://hugh.cdn.rumble.cloud/video/fwe2/0b/s8/2/m/C/e/c/mCecA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=2460666880-2460760554",
+    "enlace": "https://rumble.com/hls-vod/786lhg/playlist.m3u8?u=0&b=0",
     "tipo": "normal",
     "plataforma": [
+      "Metro Goldwyn Mayer",
       "Prime Video"
     ]
   },
