@@ -1483,13 +1483,6 @@
       "Warner Bros"
     ]
   },
-  "399612": {
-    "id": 399612,
-    "enlaces": [
-      "https://hugh.cdn.rumble.cloud/video/fwe2/12/s8/2/G/L/n/9/GLn9z.aaa.mp4"
-    ],
-    "plataforma": []
-  },
   "411840": {
     "id": 411840,
     "enlace": "https://rumble.com/hls-vod/73q8rs/playlist.m3u8?u=0&b=0",
@@ -2664,6 +2657,13 @@
     "plataforma": [
       "Warner Bros"
     ]
+  },
+  "1317288": {
+    "id": 1317288,
+    "enlaces": [
+      "https://1a-1791.com/video/fww1/b5/s8/2/O/9/f/9/O9f9z.aaa.mp4"
+    ],
+    "plataforma": []
   },
   "1319965": {
     "id": 1319965,
