@@ -495,9 +495,11 @@
   },
   "10439": {
     "id": 10439,
-    "enlace": "https://1a-1791.com/video/fww1/37/s8/2/u/6/X/t/u6Xty.caa.mp4?u=0&b=0",
     "plataforma": [
       "Disney"
+    ],
+    "enlaces": [
+      "https://1a-1791.com/video/fww1/37/s8/2/u/6/X/t/u6Xty.caa.mp4?u=0&b=0"
     ]
   },
   "10555": {
@@ -680,9 +682,11 @@
   },
   "13179": {
     "id": 13179,
-    "enlace": "https://1a-1791.com/video/fww1/b1/s8/2/Y/n/W/t/YnWty.caa.mp4?u=0&b=0",
     "plataforma": [
       "Disney"
+    ],
+    "enlaces": [
+      "https://1a-1791.com/video/fww1/b1/s8/2/Y/n/W/t/YnWty.caa.mp4?u=0&b=0"
     ]
   },
   "13200": {
@@ -1427,6 +1431,15 @@
       "Paramount"
     ]
   },
+  "353491": {
+    "id": 353491,
+    "enlaces": [
+      "https://hugh.cdn.rumble.cloud/video/s8/2/9/q/y/7/9qy7o.aaa.mp4"
+    ],
+    "plataforma": [
+      "Sony"
+    ]
+  },
   "354912": {
     "id": 354912,
     "enlace": "https://1a-1791.com/video/fwe2/12/s8/2/e/q/N/k/eqNkA.aaa.mp4",
@@ -1760,9 +1773,11 @@
   },
   "642885": {
     "id": 642885,
-    "enlace": "https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fseptiembe%2FVer%20El%20retorno%20de%20las%20brujas%202%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4",
     "plataforma": [
       "Disney"
+    ],
+    "enlaces": [
+      "https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fseptiembe%2FVer%20El%20retorno%20de%20las%20brujas%202%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4"
     ]
   },
   "653346": {
@@ -2685,9 +2700,11 @@
   },
   "1329336": {
     "id": 1329336,
-    "enlace": "https://hugh.cdn.rumble.cloud/video/fw/s8/2/m/1/U/W/m1UWt.aaa.mp4",
     "plataforma": [
       "Disney"
+    ],
+    "enlaces": [
+      "https://hugh.cdn.rumble.cloud/video/fw/s8/2/m/1/U/W/m1UWt.aaa.mp4"
     ]
   },
   "1339173": {
