@@ -446,6 +446,15 @@
       "LionsGate"
     ]
   },
+  "9408": {
+    "id": 9408,
+    "enlace": "https://rumble.com/hls-vod/73q7xu/playlist.m3u8?u=0&b=0",
+    "tipo": "normal",
+    "plataforma": [
+      "Sony",
+      "Sony Animations"
+    ]
+  },
   "9488": {
     "id": 9488,
     "enlace": "https://hugh.cdn.rumble.cloud/video/fwe2/59/s8/2/y/d/T/s/ydTsz.aaa.mp4",
