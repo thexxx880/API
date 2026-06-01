@@ -1578,17 +1578,6 @@
       "Warner Bros"
     ]
   },
-  "400160": {
-    "id": 400160,
-    "enlaces": [
-      "https://1a-1791.com/video/fwe1/63/s8/2/u/P/6/h/uP6hy.gaa.mp4?u=0&b=0"
-    ],
-    "plataforma": [
-      "Netflix",
-      "Nickelodeon",
-      "Paramount"
-    ]
-  },
   "411840": {
     "id": 411840,
     "enlace": "https://rumble.com/hls-vod/73q8rs/playlist.m3u8?u=0&b=0",
@@ -1770,6 +1759,15 @@
     "tipo": "normal",
     "plataforma": [
       "Sin Plataforma"
+    ]
+  },
+  "527641": {
+    "id": 527641,
+    "enlaces": [
+      "https://1a-1791.com/video/fwe1/63/s8/2/u/P/6/h/uP6hy.gaa.mp4?u=0&b=0"
+    ],
+    "plataforma": [
+      "LionsGate"
     ]
   },
   "533533": {
