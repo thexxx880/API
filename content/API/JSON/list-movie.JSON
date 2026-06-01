@@ -1266,16 +1266,6 @@
       "Fox"
     ]
   },
-  "228165": {
-    "id": 228165,
-    "enlaces": [
-      "https://1a-1791.com/video/fwe1/9b/s8/2/t/e/5/h/te5hy.gaa.mp4?u=0&b=0"
-    ],
-    "plataforma": [
-      "Nickelodeon",
-      "Paramount"
-    ]
-  },
   "230896": {
     "id": 230896,
     "enlace": "https://rumble.com/hls-vod/6wiyxk/playlist.m3u8?u=0&b=0",
@@ -1586,6 +1576,17 @@
     "tipo": "normal",
     "plataforma": [
       "Warner Bros"
+    ]
+  },
+  "400160": {
+    "id": 400160,
+    "enlaces": [
+      "https://1a-1791.com/video/fwe1/63/s8/2/u/P/6/h/uP6hy.gaa.mp4?u=0&b=0"
+    ],
+    "plataforma": [
+      "Netflix",
+      "Nickelodeon",
+      "Paramount"
     ]
   },
   "411840": {
