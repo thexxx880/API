@@ -1,76 +1,4 @@
 {
-  "4488": {
-    "id": 4488,
-    "enlace": "https://1a-1791.com/video/s8/2/H/S/J/o/HSJou.aaa.mp4",
-    "tipo": "normal",
-    "plataforma": [
-      "Paramount"
-    ]
-  },
-  "9725": {
-    "id": 9725,
-    "enlace": "https://1a-1791.com/video/s8/2/X/i/I/o/XiIou.aaa.mp4",
-    "tipo": "normal",
-    "plataforma": [
-      "Paramount"
-    ]
-  },
-  "9728": {
-    "id": 9728,
-    "enlace": "https://1a-1791.com/video/s8/2/3/v/A/p/3vApu.aaa.mp4",
-    "tipo": "normal",
-    "plataforma": [
-      "Paramount"
-    ]
-  },
-  "9730": {
-    "id": 9730,
-    "enlace": "https://1a-1791.com/video/s8/2/A/_/w/p/A_wpu.aaa.mp4",
-    "tipo": "normal",
-    "plataforma": [
-      "Paramount"
-    ]
-  },
-  "9731": {
-    "id": 9731,
-    "enlace": "https://1a-1791.com/video/s8/2/Z/w/A/p/ZwApu.aaa.mp4",
-    "tipo": "normal",
-    "plataforma": [
-      "Paramount"
-    ]
-  },
-  "10225": {
-    "id": 10225,
-    "enlace": "https://1a-1791.com/video/s8/2/n/y/A/p/nyApu.aaa.mp4",
-    "tipo": "normal",
-    "plataforma": [
-      "Paramount"
-    ]
-  },
-  "10281": {
-    "id": 10281,
-    "enlace": "https://1a-1791.com/video/s8/2/F/m/A/p/FmApu.aaa.mp4",
-    "tipo": "normal",
-    "plataforma": [
-      "Paramount"
-    ]
-  },
-  "10283": {
-    "id": 10283,
-    "enlace": "https://1a-1791.com/video/s8/2/H/Y/0/p/HY0pu.aaa.mp4",
-    "tipo": "normal",
-    "plataforma": [
-      "Paramount"
-    ]
-  },
-  "10285": {
-    "id": 10285,
-    "enlace": "https://1a-1791.com/video/s8/2/o/q/i/q/oqiqu.aaa.mp4",
-    "tipo": "normal",
-    "plataforma": [
-      "Paramount"
-    ]
-  },
   "58": {
     "id": 58,
     "enlace": "https://1a-1791.com/video/s8/2/t/T/u/p/tTupp.aaa.mp4",
@@ -577,6 +505,14 @@
       "Fox"
     ]
   },
+  "4488": {
+    "id": 4488,
+    "enlace": "https://1a-1791.com/video/s8/2/H/S/J/o/HSJou.aaa.mp4",
+    "tipo": "normal",
+    "plataforma": [
+      "Paramount"
+    ]
+  },
   "6477": {
     "id": 6477,
     "enlace": "https://hugh.cdn.rumble.cloud/video/fww1/af/s8/2/m/1/o/4/m1o4y.aaa.mp4",
@@ -755,6 +691,38 @@
       "Universal"
     ]
   },
+  "9725": {
+    "id": 9725,
+    "enlace": "https://1a-1791.com/video/s8/2/X/i/I/o/XiIou.aaa.mp4",
+    "tipo": "normal",
+    "plataforma": [
+      "Paramount"
+    ]
+  },
+  "9728": {
+    "id": 9728,
+    "enlace": "https://1a-1791.com/video/s8/2/3/v/A/p/3vApu.aaa.mp4",
+    "tipo": "normal",
+    "plataforma": [
+      "Paramount"
+    ]
+  },
+  "9730": {
+    "id": 9730,
+    "enlace": "https://1a-1791.com/video/s8/2/A/_/w/p/A_wpu.aaa.mp4",
+    "tipo": "normal",
+    "plataforma": [
+      "Paramount"
+    ]
+  },
+  "9731": {
+    "id": 9731,
+    "enlace": "https://1a-1791.com/video/s8/2/Z/w/A/p/ZwApu.aaa.mp4",
+    "tipo": "normal",
+    "plataforma": [
+      "Paramount"
+    ]
+  },
   "9732": {
     "id": 9732,
     "enlace": "https://hugh.cdn.rumble.cloud/video/fwe1/4f/s8/2/Z/5/_/H/Z5_Hw.aaa.mp4",
@@ -816,6 +784,38 @@
     "tipo": "normal",
     "plataforma": [
       "LionsGate"
+    ]
+  },
+  "10225": {
+    "id": 10225,
+    "enlace": "https://1a-1791.com/video/s8/2/n/y/A/p/nyApu.aaa.mp4",
+    "tipo": "normal",
+    "plataforma": [
+      "Paramount"
+    ]
+  },
+  "10281": {
+    "id": 10281,
+    "enlace": "https://1a-1791.com/video/s8/2/F/m/A/p/FmApu.aaa.mp4",
+    "tipo": "normal",
+    "plataforma": [
+      "Paramount"
+    ]
+  },
+  "10283": {
+    "id": 10283,
+    "enlace": "https://1a-1791.com/video/s8/2/H/Y/0/p/HY0pu.aaa.mp4",
+    "tipo": "normal",
+    "plataforma": [
+      "Paramount"
+    ]
+  },
+  "10285": {
+    "id": 10285,
+    "enlace": "https://1a-1791.com/video/s8/2/o/q/i/q/oqiqu.aaa.mp4",
+    "tipo": "normal",
+    "plataforma": [
+      "Paramount"
     ]
   },
   "10386": {
@@ -1068,6 +1068,14 @@
     "enlace": "https://1a-1791.com/video/fww1/d2/s8/2/M/J/C/s/MJCsy.gaa.mp4?u=0&b=0",
     "plataforma": [
       "Sin Plataforma"
+    ]
+  },
+  "13207": {
+    "id": 13207,
+    "enlace": "https://1a-1791.com/video/s8/2/O/7/e/i/O7eiu.aaa.mp4",
+    "tipo": "normal",
+    "plataforma": [
+      "Paramount"
     ]
   },
   "13335": {
