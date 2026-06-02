@@ -1701,6 +1701,15 @@
       "Sin Plataforma"
     ]
   },
+  "30061": {
+    "id": 30061,
+    "enlace": "https://rumble.com/hls-vod/78i4ww/playlist.m3u8?u=0&b=0",
+    "tipo": "normal",
+    "plataforma": [
+      "DC Comics",
+      "Warner Bros"
+    ]
+  },
   "34751": {
     "id": 34751,
     "enlace": "https://rumble.com/hls-vod/6xscma/playlist.m3u8?u=0&b=0",
