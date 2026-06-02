@@ -975,6 +975,14 @@
       "Sin Plataforma"
     ]
   },
+  "10144": {
+    "id": 10144,
+    "enlace": "https://rumble.com/hls-vod/78i8lw/playlist.m3u8?u=0&b=0",
+    "tipo": "normal",
+    "plataforma": [
+      "Disney"
+    ]
+  },
   "10157": {
     "id": 10157,
     "enlace": "https://rumble.com/hls-vod/6xrltm/playlist.m3u8?u=0&b=0",
