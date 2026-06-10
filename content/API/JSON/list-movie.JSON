@@ -14,14 +14,6 @@
       "Paramount"
     ]
   },
- "77950": {
-    "id": 77950,
-    "enlace": "https://hugh.cdn.rumble.cloud/video/fww1/09/s8/2/y/q/v/v/yqvvy.aaa.mp4",
-    "plataforma": [
-      "DreamWorks",
-      "Fox"
-    ]
-  },
   "98": {
     "id": 98,
     "enlace": "https://1a-1791.com/video/fwe2/95/s8/2/y/B/0/f/yB0fw.aaa.mp4",
@@ -2503,6 +2495,14 @@
     "plataforma": [
       "Disney",
       "Pixar"
+    ]
+  },
+  "77950": {
+    "id": 77950,
+    "enlace": "https://hugh.cdn.rumble.cloud/video/fww1/09/s8/2/y/q/v/v/yqvvy.aaa.mp4",
+    "plataforma": [
+      "DreamWorks",
+      "Fox"
     ]
   },
   "79218": {
@@ -6145,6 +6145,15 @@
   "1632181": {
     "id": 1632181,
     "enlace": "https://rumble.com/hls-vod/78i6ve/playlist.m3u8?u=0&b=0",
+    "plataforma": [
+      "Sin Plataforma"
+    ]
+  },
+  "tt13904644": {
+    "id": null,
+    "enlaces": [
+      "https://rumble.com/hls-vod/6w8hce/playlist.m3u8?key=MWgG6ipQP4yezB1yGFYSYmkPZBr5yxt780RziPi4BScUFU8RmT5kSA&u=0&b=0"
+    ],
     "plataforma": [
       "Sin Plataforma"
     ]
