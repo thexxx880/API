@@ -125,7 +125,7 @@
   },
   "285": {
     "id": 285,
-    "enlace": "https://1a-1791.com/video/s8/2/l/2/w/p/l2wpp.aaa.mp4",
+    "enlace": "https://rumble.com/hls-vod/78vufc/playlist.m3u8?u=0&b=0",
     "plataforma": [
       "Disney"
     ]
@@ -566,7 +566,6 @@
   "1579": {
     "id": 1579,
     "enlace": "https://1a-1791.com/video/fwe2/c1/s8/2/I/A/I/D/IAIDz.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Sin Plataforma"
     ]
@@ -3109,7 +3108,6 @@
   "271709": {
     "id": 271709,
     "enlace": "https://rumble.com/hls-vod/7590xm/playlist.m3u8?u=0&b=0",
-    "tipo": "normal",
     "plataforma": [
       "Anime"
     ]
@@ -3138,7 +3136,6 @@
   "277217": {
     "id": 277217,
     "enlace": "https://hugh.cdn.rumble.cloud/video/s8/2/9/G/p/E/9GpEp.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Disney"
     ]
@@ -3166,9 +3163,7 @@
   },
   "282728": {
     "id": 282728,
-    "enlaces": [
-      "https://rumble.com/hls-vod/76rmbk/playlist.m3u8?u=0&b=0"
-    ],
+    "enlace": "",
     "plataforma": [
       "Nickelodeon"
     ]
@@ -3717,7 +3712,6 @@
   "417320": {
     "id": 417320,
     "enlace": "https://1a-1791.com/video/s8/2/a/u/t/E/autEp.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Disney"
     ]
@@ -3982,7 +3976,6 @@
   "502356": {
     "id": 502356,
     "enlace": "https://hugh.cdn.rumble.cloud/video/fww1/32/s8/2/4/C/7/-/4C7-y.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Universal"
     ]
@@ -4021,7 +4014,6 @@
   "506574": {
     "id": 506574,
     "enlace": "https://hugh.cdn.rumble.cloud/video/s8/2/h/Q/r/E/hQrEp.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Disney"
     ]
@@ -5082,7 +5074,6 @@
   "974262": {
     "id": 974262,
     "enlace": "https://hugh.cdn.rumble.cloud/video/s8/2/L/d/M/S/LdMSs.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Disney"
     ]
@@ -5756,7 +5747,6 @@
   "1246049": {
     "id": 1246049,
     "enlace": "https://rumble.com/hls-vod/765pny/playlist.m3u8?u=0&b=0",
-    "tipo": "normal",
     "plataforma": [
       "Sin Plataforma"
     ]
