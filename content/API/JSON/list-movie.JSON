@@ -9,7 +9,7 @@
   "74": {
     "id": 74,
     "enlace": "https://1a-1791.com/video/s8/2/v/D/B/f/vDBft.aaa.mp4",
-   "plataforma": [
+    "plataforma": [
       "DreamWorks",
       "Paramount"
     ]
@@ -5707,6 +5707,14 @@
     "enlace": "https://hugh.cdn.rumble.cloud/video/fwe2/de/s8/2/m/w/q/s/mwqsz.aaa.mp4",
     "plataforma": [
       "Sin Plataforma"
+    ]
+  },
+  "1045644": {
+    "id": 1045644,
+    "enlace": "https://rumble.com/hls-vod/76gsxw/playlist.m3u8?u=0&b=0",
+    "tipo": "normal",
+    "plataforma": [
+      "Universal"
     ]
   },
   "1054867": {
