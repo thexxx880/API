@@ -1,39 +1,4 @@
 {
-  "1084244": {
-    "id": 1084244,
-    "enlace": [
-      "https://voe.sx/e/b79g0rdczsfu",
-      "https://player.mediadelivery.net/play/687159/225fe8f9-0da5-4258-a3e6-7b21de9839fa"
-    ],
-    "tipo": "especial",
-    "plataforma": [
-      "Disney",
-      "Pixar"
-    ]
-  },
-  "1137350": {
-    "id": 1137350,
-    "enlace": [
-      "https://vidhidepro.com/v/kjdr4zkel8np",
-      "https://streamwish.top/e/utr5pjm8sxfz",
-      "https://voe.sx/e/r7nwnfyz8lpw"
-    ],
-    "tipo": "especial",
-    "plataforma": [
-      "Universal"
-    ]
-  },
-  "926606": {
-    "id": 926606,
-    "enlace": [
-      "https://voe.sx/e/vatkwrdty5q7",
-      "https://nzn3.org/hvtd/j2e6wcknnw5g"
-    ],
-    "tipo": "especial",
-    "plataforma": [
-      "Sin Plataforma"
-    ]
-  },
   "58": {
     "id": 58,
     "enlace": "https://1a-1791.com/video/s8/2/t/T/u/p/tTupp.aaa.mp4",
@@ -81,7 +46,6 @@
   "120": {
     "id": 120,
     "enlace": "https://1a-1791.com/video/fwe2/9f/s8/2/U/6/2/n/U62nw.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Warner Bros"
     ]
@@ -89,7 +53,6 @@
   "121": {
     "id": 121,
     "enlace": "https://1a-1791.com/video/fwe2/49/s8/2/Z/A/a/q/ZAaqw.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Warner Bros"
     ]
@@ -97,7 +60,6 @@
   "122": {
     "id": 122,
     "enlace": "https://1a-1791.com/video/fwe1/17/s8/2/Q/b/n/z/Qbnzw.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Warner Bros"
     ]
@@ -170,7 +132,6 @@
   "218": {
     "id": 218,
     "enlace": "https://1a-1791.com/video/s8/2/C/M/l/J/CMlJt.aaa.mp4?u=0&b=0",
-    "tipo": "normal",
     "plataforma": [
       "Sin Plataforma"
     ]
@@ -193,7 +154,6 @@
   "280": {
     "id": 280,
     "enlace": "https://1a-1791.com/video/s8/2/9/a/P/K/9aPKt.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Sin Plataforma"
     ]
@@ -208,7 +168,6 @@
   "296": {
     "id": 296,
     "enlace": "https://hugh.cdn.rumble.cloud/video/s8/2/f/e/j/1/fej1l.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Sony"
     ]
@@ -279,7 +238,6 @@
   "534": {
     "id": 534,
     "enlace": "https://hugh.cdn.rumble.cloud/video/fwe2/d1/s8/2/q/8/7/r/q87rz.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Sony"
     ]
@@ -346,7 +304,6 @@
   "598": {
     "id": 598,
     "enlace": "https://rumble.com/hls-vod/6s7ym3/playlist.m3u8",
-    "tipo": "normal",
     "plataforma": [
       "Sin Plataforma"
     ]
@@ -510,7 +467,6 @@
   "854": {
     "id": 854,
     "enlace": "https://1a-1791.com/video/s8/2/6/r/O/l/6rOls.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Warner Bros"
     ]
@@ -603,7 +559,6 @@
   "1265": {
     "id": 1265,
     "enlace": "https://rumble.com/hls-vod/6s6oq7/playlist.m3u8",
-    "tipo": "normal",
     "plataforma": [
       "Disney"
     ]
@@ -781,7 +736,6 @@
   "1954": {
     "id": 1954,
     "enlace": "https://1a-1791.com/video/fww1/12/s8/2/Q/J/J/x/QJJxz.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "LionsGate"
     ]
@@ -796,7 +750,6 @@
   "2048": {
     "id": 2048,
     "enlace": "https://1a-1791.com/video/fw/s8/2/P/E/P/N/PEPNt.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Fox"
     ]
@@ -811,7 +764,6 @@
   "2897": {
     "id": 2897,
     "enlace": "https://rumble.com/hls-vod/6s4djp/playlist.m3u8",
-    "tipo": "normal",
     "plataforma": [
       "Sin Plataforma"
     ]
@@ -875,7 +827,6 @@
   "4643": {
     "id": 4643,
     "enlace": "https://rumble.com/hls-vod/6s50sl/playlist.m3u8",
-    "tipo": "normal",
     "plataforma": [
       "Sin Plataforma"
     ]
@@ -1168,7 +1119,6 @@
   "9567": {
     "id": 9567,
     "enlace": "https://1a-1791.com/video/fww1/f4/s8/2/Q/0/_/0/Q0_0y.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Sony"
     ]
@@ -1269,7 +1219,6 @@
   "9804": {
     "id": 9804,
     "enlace": "https://rumble.com/hls-vod/6z86gu/playlist.m3u8?key=esQz6BlA08uN4b-hk94bqPwweYuwPJVjxtEb96dTlItmtOUXEwsqXA&u=0&b=0",
-    "tipo": "normal",
     "plataforma": [
       "Universal"
     ]
@@ -1355,7 +1304,6 @@
   "10191": {
     "id": 10191,
     "enlace": "https://hugh.cdn.rumble.cloud/video/fww1/eb/s8/2/S/3/y/2/S3y2y.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "DreamWorks"
     ]
@@ -1380,7 +1328,6 @@
     "enlace": [
       "https://voe.sx/e/w4pu6aoawztv"
     ],
-    "tipo": "especial",
     "plataforma": [
       "Paramount",
       "Marvel"
@@ -1403,7 +1350,6 @@
   "10214": {
     "id": 10214,
     "enlace": "https://hugh.cdn.rumble.cloud/video/s8/2/_/X/W/l/_XWls.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Warner Bros"
     ]
@@ -1545,7 +1491,6 @@
   "10947": {
     "id": 10947,
     "enlace": "https://1a-1791.com/video/fww1/d9/s8/2/O/G/l/j/OGljz.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Disney"
     ]
@@ -1617,7 +1562,6 @@
   "11253": {
     "id": 11253,
     "enlace": "https://1a-1791.com/video/fwe2/0a/s8/2/w/x/S/r/wxSrz.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Universal"
     ]
@@ -1689,7 +1633,6 @@
   "11887": {
     "id": 11887,
     "enlace": "https://1a-1791.com/video/fww1/ae/s8/2/m/I/l/j/mIljz.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Disney"
     ]
@@ -1789,7 +1732,6 @@
   "13151": {
     "id": 13151,
     "enlace": "https://rumble.com/hls-vod/790bnw/playlist.m3u8?u=0&b=0",
-    "tipo": "normal",
     "plataforma": [
       "Warner Bros"
     ]
@@ -1856,7 +1798,6 @@
   "13649": {
     "id": 13649,
     "enlace": "https://hugh.cdn.rumble.cloud/video/fww1/24/s8/2/a/I/l/j/aIljz.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Disney"
     ]
@@ -1927,7 +1868,6 @@
   "14620": {
     "id": 14620,
     "enlace": "https://hugh.cdn.rumble.cloud/video/fww1/f7/s8/2/M/H/J/x/MHJxz.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "LionsGate"
     ]
@@ -1972,7 +1912,6 @@
   "15655": {
     "id": 15655,
     "enlace": "https://seed126.bitchute.com/EsGabDjf54qB/rVG8PLyWjjkF.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Disney"
     ]
@@ -2016,7 +1955,6 @@
   "16258": {
     "id": 16258,
     "enlace": "https://hugh.cdn.rumble.cloud/video/fww1/7b/s8/2/o/E/J/x/oEJxz.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Sin Plataforma"
     ]
@@ -2131,7 +2069,6 @@
   "20352": {
     "id": 20352,
     "enlace": "https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelisarregladas%2FVer%20Gru-%20Mi%20villano%20favorito%20Online%20(2010)%20-%20REPELIS.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Universal"
     ]
@@ -2268,7 +2205,6 @@
   "30131": {
     "id": 30131,
     "enlace": "https://rumble.com/hls-vod/6s3bgv/playlist.m3u8",
-    "tipo": "normal",
     "plataforma": [
       "Sin Plataforma"
     ]
@@ -2318,7 +2254,6 @@
   "37950": {
     "id": 37950,
     "enlace": "https://hugh.cdn.rumble.cloud/video/s8/2/r/p/h/m/rphmu.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Sin Plataforma"
     ]
@@ -2424,7 +2359,6 @@
   "41293": {
     "id": 41293,
     "enlace": "https://rumble.com/hls-vod/6s3t2r/playlist.m3u8",
-    "tipo": "normal",
     "plataforma": [
       "Sony"
     ]
@@ -2432,7 +2366,6 @@
   "41300": {
     "id": 41300,
     "enlace": "https://rumble.com/hls-vod/6s3cn1/playlist.m3u8",
-    "tipo": "normal",
     "plataforma": [
       "Sin Plataforma"
     ]
@@ -2447,7 +2380,6 @@
   "41308": {
     "id": 41308,
     "enlace": "https://rumble.com/hls-vod/6s3qor/playlist.m3u8",
-    "tipo": "normal",
     "plataforma": [
       "Sin Plataforma"
     ]
@@ -2469,7 +2401,6 @@
   "42246": {
     "id": 42246,
     "enlace": "https://rumble.com/hls-vod/6zadjy/playlist.m3u8?key=jn5adKl93dKLRP5IccbHmdXjYPc5WoLgtc39f1I_qfiE0DtF-wCnjg&u=0&b=0",
-    "tipo": "normal",
     "plataforma": [
       "Warner Bros"
     ]
@@ -2506,7 +2437,6 @@
   "45192": {
     "id": 45192,
     "enlace": "https://ia903206.us.archive.org/25/items/cantinflas-el-profe-1971/Cantinflas%20El%20profe%20%281971%29.mp4?cnt=0",
-    "tipo": "normal",
     "plataforma": [
       "Sin Plataforma"
     ]
@@ -2514,7 +2444,6 @@
   "45752": {
     "id": 45752,
     "enlace": "https://rumble.com/hls-vod/790998/playlist.m3u8?u=0&b=0",
-    "tipo": "normal",
     "plataforma": [
       "Warner Bros"
     ]
@@ -2545,7 +2474,6 @@
   "49051": {
     "id": 49051,
     "enlace": "https://1a-1791.com/video/s8/2/L/N/V/P/LNVPv.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Warner Bros"
     ]
@@ -2583,7 +2511,6 @@
   "49526": {
     "id": 49526,
     "enlace": "https://rumble.com/hls-vod/6y4sc0/playlist.m3u8?u=0&b=0",
-    "tipo": "normal",
     "plataforma": [
       "Sony"
     ]
@@ -2620,7 +2547,6 @@
   "51052": {
     "id": 51052,
     "enlace": "https://rumble.com/hls-vod/73q7e4/playlist.m3u8?u=0&b=0",
-    "tipo": "normal",
     "plataforma": [
       "Navidad",
       "Sony",
@@ -2744,7 +2670,6 @@
   "68726": {
     "id": 68726,
     "enlace": "https://hugh.cdn.rumble.cloud/video/s8/2/h/S/y/b/hSybr.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Warner Bros"
     ]
@@ -2844,7 +2769,6 @@
   "76726": {
     "id": 76726,
     "enlace": "https://rumble.com/hls-vod/6z86ze/playlist.m3u8?key=WdqMaE-540Ep5GbrTCUggswxbblHYzTMUs_5i6ZmxKY2FHAycvo5Xg&u=0&b=0",
-    "tipo": "normal",
     "plataforma": [
       "Fox"
     ]
@@ -2926,7 +2850,6 @@
   "82768": {
     "id": 82768,
     "enlace": "https://rumble.com/hls-vod/6s3u1n/playlist.m3u8",
-    "tipo": "normal",
     "plataforma": [
       "Sony"
     ]
@@ -2934,7 +2857,6 @@
   "82779": {
     "id": 82779,
     "enlace": "https://rumble.com/hls-vod/6s3dud/playlist.m3u8",
-    "tipo": "normal",
     "plataforma": [
       "Sin Plataforma"
     ]
@@ -2956,7 +2878,6 @@
   "83533": {
     "id": 83533,
     "enlace": "https://hugh.cdn.rumble.cloud/video/fww1/4d/s8/2/M/6/v/K/M6vKz.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Fox"
     ]
@@ -2964,7 +2885,6 @@
   "87101": {
     "id": 87101,
     "enlace": "https://1a-1791.com/video/fwe2/7a/s8/2/G/8/7/r/G87rz.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Paramount"
     ]
@@ -3000,7 +2920,6 @@
   "93456": {
     "id": 93456,
     "enlace": "https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelisarregladas%2FVer%20Gru%202.%20Mi%20villano%20favorito%202%20Online%20(2013)%20-%20REPELIS.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Universal"
     ]
@@ -3256,7 +3175,6 @@
   "199753": {
     "id": 199753,
     "enlace": "https://rumble.com/hls-vod/6za7do/playlist.m3u8?key=7LBtQM2psPSfSgvofmCUeLP3Ui4GA6fhZ5uBBKuA8Oxi2Qg7erMRUg&u=0&b=0",
-    "tipo": "normal",
     "plataforma": [
       "Warner Bros"
     ]
@@ -3271,7 +3189,6 @@
   "211672": {
     "id": 211672,
     "enlace": "https://rumble.com/hls-vod/76grp4/playlist.m3u8?u=0&b=0",
-    "tipo": "normal",
     "plataforma": [
       "Universal"
     ]
@@ -3365,7 +3282,6 @@
   "242643": {
     "id": 242643,
     "enlace": "https://rumble.com/hls-vod/73r9ts/playlist.m3u8?u=0&b=0",
-    "tipo": "normal",
     "plataforma": [
       "DC Comics",
       "Warner Bros"
@@ -3617,7 +3533,6 @@
   "284995": {
     "id": 284995,
     "enlace": "https://rumble.com/hls-vod/7905kw/playlist.m3u8?u=0&b=0",
-    "tipo": "normal",
     "plataforma": [
       "Warner Bros"
     ]
@@ -3639,7 +3554,6 @@
   "290859": {
     "id": 290859,
     "enlace": "https://1a-1791.com/video/fww1/f3/s8/2/C/j/V/r/CjVrz.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Fox",
       "Paramount"
@@ -3670,7 +3584,6 @@
   "296096": {
     "id": 296096,
     "enlace": "https://hugh.cdn.rumble.cloud/video/s8/2/9/s/9/M/9s9Ms.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Warner Bros"
     ]
@@ -3744,7 +3657,6 @@
   "302946": {
     "id": 302946,
     "enlace": "https://1a-1791.com/video/fww1/57/s8/2/p/X/G/G/pXGGy.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Warner Bros"
     ]
@@ -3752,7 +3664,6 @@
   "302960": {
     "id": 302960,
     "enlace": "https://rumble.com/hls-vod/7907e8/playlist.m3u8?u=0&b=0",
-    "tipo": "normal",
     "plataforma": [
       "Warner Bros"
     ]
@@ -3775,7 +3686,6 @@
   "308266": {
     "id": 308266,
     "enlace": "https://1a-1791.com/video/s8/2/n/g/e/p/ngepo.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Warner Bros"
     ]
@@ -3841,7 +3751,6 @@
   "324852": {
     "id": 324852,
     "enlace": "https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelisarregladas%2Fparte3%2FPel%C3%ADcula%20Gru%203.%20Mi%20villano%20favorito%202017%20Online%20Completa%20-%20CUEVANA.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Universal"
     ]
@@ -3963,7 +3872,6 @@
   "346364": {
     "id": 346364,
     "enlace": "https://hugh.cdn.rumble.cloud/video/s8/2/8/g/5/9/8g59q.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Warner Bros"
     ]
@@ -4179,7 +4087,6 @@
   "409122": {
     "id": 409122,
     "enlace": "https://rumble.com/hls-vod/7909ws/playlist.m3u8?u=0&b=0",
-    "tipo": "normal",
     "plataforma": [
       "Warner Bros"
     ]
@@ -4259,7 +4166,6 @@
   "425274": {
     "id": 425274,
     "enlace": "https://1a-1791.com/video/fwe2/8a/s8/2/i/p/y/L/ipyLz.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "LionsGate"
     ]
@@ -4345,7 +4251,6 @@
   "454626": {
     "id": 454626,
     "enlace": "https://hugh.cdn.rumble.cloud/video/fwe2/d2/s8/2/-/a/o/n/-aonx.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Paramount"
     ]
@@ -4431,7 +4336,6 @@
   "474350": {
     "id": 474350,
     "enlace": "https://1a-1791.com/video/s8/2/T/j/F/1/TjF1t.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Warner Bros"
     ]
@@ -4447,7 +4351,6 @@
   "475557": {
     "id": 475557,
     "enlace": "https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelisarregladas%2Fparte2%2FPel%C3%ADcula%20Joker%202019%20Online%20Completa%20-%20CUEVANA.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Warner Bros"
     ]
@@ -4469,7 +4372,6 @@
   "484862": {
     "id": 484862,
     "enlace": "https://rumble.com/hls-vod/7908nq/playlist.m3u8?u=0&b=0",
-    "tipo": "normal",
     "plataforma": [
       "DC Comics",
       "Warner Bros"
@@ -4617,7 +4519,6 @@
   "519182": {
     "id": 519182,
     "enlace": "https://1a-1791.com/video/fwe1/58/s8/2/4/M/q/e/4Mqey.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Universal"
     ]
@@ -4734,7 +4635,6 @@
   "552524": {
     "id": 552524,
     "enlace": "https://1a-1791.com/video/fww1/73/s8/2/Z/6/8/N/Z68Ny.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Disney"
     ]
@@ -4808,7 +4708,6 @@
   "576743": {
     "id": 576743,
     "enlace": "https://rumble.com/hls-vod/73r92i/playlist.m3u8?u=0&b=0",
-    "tipo": "normal",
     "plataforma": [
       "Marvel"
     ]
@@ -4874,7 +4773,6 @@
   "592687": {
     "id": 592687,
     "enlace": "https://rumble.com/hls-vod/73r998/playlist.m3u8?u=0&b=0",
-    "tipo": "normal",
     "plataforma": [
       "Marvel"
     ]
@@ -5053,7 +4951,6 @@
   "646380": {
     "id": 646380,
     "enlace": "https://1a-1791.com/video/fww1/cc/s8/2/-/K/J/x/-KJxz.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Netflix"
     ]
@@ -5147,7 +5044,6 @@
   "668489": {
     "id": 668489,
     "enlace": "https://1a-1791.com/video/fww1/4c/s8/2/d/D/G/H/dDGHy.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Netflix"
     ]
@@ -5177,7 +5073,6 @@
   "675353": {
     "id": 675353,
     "enlace": "https://1a-1791.com/video/s8/2/Q/W/3/d/QW3du.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Paramount"
     ]
@@ -5192,7 +5087,6 @@
   "680493": {
     "id": 680493,
     "enlace": "https://1a-1791.com/video/fwe2/9b/s8/2/W/Q/W/2/WQW2z.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Sony"
     ]
@@ -5222,7 +5116,6 @@
   "696506": {
     "id": 696506,
     "enlace": "https://hugh.cdn.rumble.cloud/video/fww1/1a/s8/2/b/L/T/z/bLTzy.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Warner Bros"
     ]
@@ -5272,7 +5165,6 @@
   "721656": {
     "id": 721656,
     "enlace": "https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelisoctubre%2FVer%20%C2%A1Feliz%20Halloween%2C%20Scooby-Doo!%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.tv.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Warner Bros"
     ]
@@ -5371,7 +5263,6 @@
   "765897": {
     "id": 765897,
     "enlace": "https://rumble.com/hls-vod/6s1l9b/playlist.m3u8",
-    "tipo": "normal",
     "plataforma": [
       "LionsGate"
     ]
@@ -5451,7 +5342,6 @@
   "799766": {
     "id": 799766,
     "enlace": "https://rumble.com/hls-vod/6vhmvs/playlist.m3u8",
-    "tipo": "normal",
     "plataforma": [
       "Sin Plataforma"
     ]
@@ -5459,7 +5349,6 @@
   "799882": {
     "id": 799882,
     "enlace": "https://hugh.cdn.rumble.cloud/video/fww1/0d/s8/2/c/E/V/2/cEV2z.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Metro Goldwyn Mayer",
       "Prime Video"
@@ -5482,7 +5371,6 @@
   "803796": {
     "id": 803796,
     "enlace": "https://hugh.cdn.rumble.cloud/video/fww1/52/s8/2/Z/P/L/X/ZPLXy.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Netflix"
     ]
@@ -5504,7 +5392,6 @@
   "818647": {
     "id": 818647,
     "enlace": "https://1a-1791.com/video/s8/2/z/l/7/O/zl7Op.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Netflix"
     ]
@@ -5561,7 +5448,6 @@
   "839033": {
     "id": 839033,
     "enlace": "https://1a-1791.com/video/fwe1/32/s8/2/v/E/p/-/vEp-v.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Warner Bros"
     ]
@@ -5598,7 +5484,6 @@
   "870028": {
     "id": 870028,
     "enlace": "https://hugh.cdn.rumble.cloud/video/fww1/de/s8/2/d/E/Z/F/dEZFy.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Metro Goldwyn Mayer",
       "Prime Video",
@@ -5615,7 +5500,6 @@
   "875828": {
     "id": 875828,
     "enlace": "https://1a-1791.com/video/fww1/ee/s8/2/C/f/b/-/Cfb-z.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Netflix"
     ]
@@ -5630,7 +5514,6 @@
   "883954": {
     "id": 883954,
     "enlace": "https://1a-1791.com/video/fww1/1f/s8/2/1/Z/w/T/1ZwTy.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Sin Plataforma"
     ]
@@ -5653,7 +5536,6 @@
   "889737": {
     "id": 889737,
     "enlace": "https://hugh.cdn.rumble.cloud/video/s8/2/I/T/y/g/ITygu.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Warner Bros"
     ]
@@ -5661,7 +5543,6 @@
   "896536": {
     "id": 896536,
     "enlace": "https://rumble.com/hls-vod/6rjqjl/playlist.m3u8",
-    "tipo": "normal",
     "plataforma": [
       "Sin Plataforma"
     ]
@@ -5677,7 +5558,16 @@
   "923993": {
     "id": 923993,
     "enlace": "https://1a-1791.com/video/fww1/7e/s8/2/i/F/o/u/iFouy.aaa.mp4",
-    "tipo": "normal",
+    "plataforma": [
+      "Sin Plataforma"
+    ]
+  },
+  "926606": {
+    "id": 926606,
+    "enlace": [
+      "https://voe.sx/e/vatkwrdty5q7",
+      "https://nzn3.org/hvtd/j2e6wcknnw5g"
+    ],
     "plataforma": [
       "Sin Plataforma"
     ]
@@ -5700,7 +5590,6 @@
   "931349": {
     "id": 931349,
     "enlace": "https://1a-1791.com/video/fww1/40/s8/2/z/U/G/H/zUGHy.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Metro Goldwyn Mayer",
       "Prime Video"
@@ -5722,7 +5611,7 @@
   },
   "936075": {
     "id": 936075,
-    "enlace": "https://hugh.cdn.rumble.cloud/video/fwe2/25/s8/2/w/C/I/i/wCIiA.aaa.mp4",
+    "enlace": "https://streamwish.to/e/ug5x2vpj2hk8",
     "plataforma": [
       "Universal",
       "LionsGate"
@@ -5731,7 +5620,6 @@
   "939243": {
     "id": 939243,
     "enlace": "https://hugh.cdn.rumble.cloud/video/fwe1/cb/s8/2/P/7/k/6/P7k6w.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Paramount"
     ]
@@ -5781,7 +5669,6 @@
   "953735": {
     "id": 953735,
     "enlace": "https://1a-1791.com/video/fww1/fc/s8/2/B/Q/r/A/BQrAy.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Sin Plataforma"
     ]
@@ -5824,7 +5711,6 @@
   "974453": {
     "id": 974453,
     "enlace": "https://1a-1791.com/video/fww1/02/s8/2/d/W/S/D/dWSDy.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Sin Plataforma"
     ]
@@ -5882,7 +5768,6 @@
   "980489": {
     "id": 980489,
     "enlace": "https://hugh.cdn.rumble.cloud/video/s8/2/W/b/h/e/Wbhes.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Sony"
     ]
@@ -5911,7 +5796,6 @@
   "988078": {
     "id": 988078,
     "enlace": "https://1a-1791.com/video/fwe1/44/s8/2/S/u/J/a/SuJaw.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Netflix"
     ]
@@ -5919,7 +5803,6 @@
   "991494": {
     "id": 991494,
     "enlace": "https://hugh.cdn.rumble.cloud/video/fwe2/70/s8/2/U/G/e/L/UGeLz.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Nickelodeon",
       "Paramount"
@@ -5965,7 +5848,6 @@
   "1000837": {
     "id": 1000837,
     "enlace": "https://1a-1791.com/video/fww1/de/s8/2/2/O/v/v/2Ovvy.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Sony"
     ]
@@ -6001,7 +5883,6 @@
   "1010755": {
     "id": 1010755,
     "enlace": "https://hugh.cdn.rumble.cloud/video/fwe2/3e/s8/2/-/I/B/6/-IB6z.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "LionsGate"
     ]
@@ -6023,7 +5904,6 @@
   "1015724": {
     "id": 1015724,
     "enlace": "https://rumble.com/hls-vod/790az4/playlist.m3u8?u=0&b=0",
-    "tipo": "normal",
     "plataforma": [
       "Warner Bros"
     ]
@@ -6038,7 +5918,6 @@
   "1018247": {
     "id": 1018247,
     "enlace": "https://1a-1791.com/video/fww1/cb/s8/2/N/E/s/T/NEsTy.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Sin Plataforma"
     ]
@@ -6083,7 +5962,6 @@
   "1029119": {
     "id": 1029119,
     "enlace": "https://rumble.com/hls-vod/76gspe/playlist.m3u8?u=0&b=0",
-    "tipo": "normal",
     "plataforma": [
       "Universal"
     ]
@@ -6100,7 +5978,6 @@
   "1032892": {
     "id": 1032892,
     "enlace": "https://1a-1791.com/video/fww1/4a/s8/2/Y/C/W/3/YCW3z.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Sin Plataforma"
     ]
@@ -6115,7 +5992,6 @@
   "1034716": {
     "id": 1034716,
     "enlace": "https://hugh.cdn.rumble.cloud/video/fwe2/6c/s8/2/U/5/2/O/U52Oz.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Netflix",
       "Sony"
@@ -6138,7 +6014,6 @@
   "1045644": {
     "id": 1045644,
     "enlace": "https://rumble.com/hls-vod/76gsxw/playlist.m3u8?u=0&b=0",
-    "tipo": "normal",
     "plataforma": [
       "Universal"
     ]
@@ -6160,7 +6035,6 @@
   "1062722": {
     "id": 1062722,
     "enlace": "https://1a-1791.com/video/fww1/6c/s8/2/O/n/C/x/OnCxz.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Netflix"
     ]
@@ -6175,7 +6049,6 @@
   "1064486": {
     "id": 1064486,
     "enlace": "https://1a-1791.com/video/fww1/18/s8/2/J/t/R/D/JtRDy.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Sin Plataforma"
     ]
@@ -6246,9 +6119,19 @@
   "1084242": {
     "id": 1084242,
     "enlace": "https://hugh.cdn.rumble.cloud/video/fww1/55/s8/2/w/y/Z/K/wyZKz.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Disney"
+    ]
+  },
+  "1084244": {
+    "id": 1084244,
+    "enlace": [
+      "https://voe.sx/e/b79g0rdczsfu",
+      "https://player.mediadelivery.net/play/687159/225fe8f9-0da5-4258-a3e6-7b21de9839fa"
+    ],
+    "plataforma": [
+      "Disney",
+      "Pixar"
     ]
   },
   "1084577": {
@@ -6261,7 +6144,6 @@
   "1086548": {
     "id": 1086548,
     "enlace": "https://1a-1791.com/video/fww1/12/s8/2/5/x/R/D/5xRDy.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Sin Plataforma"
     ]
@@ -6269,7 +6151,6 @@
   "1087388": {
     "id": 1087388,
     "enlace": "https://1a-1791.com/video/fwe1/94/s8/2/l/y/D/C/lyDCx.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Sin Plataforma"
     ]
@@ -6277,7 +6158,6 @@
   "1087822": {
     "id": 1087822,
     "enlace": "https://hugh.cdn.rumble.cloud/video/s8/2/j/L/y/g/jLygu.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Sin Plataforma"
     ]
@@ -6285,7 +6165,6 @@
   "1087891": {
     "id": 1087891,
     "enlace": "https://hugh.cdn.rumble.cloud/video/fww1/f4/s8/2/9/-/W/Y/9-WYy.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Fox"
     ]
@@ -6315,7 +6194,6 @@
   "1098006": {
     "id": 1098006,
     "enlace": "https://1a-1791.com/video/fww1/ed/s8/2/3/a/t/N/3atNy.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Apple TV"
     ]
@@ -6373,7 +6251,6 @@
   "1125899": {
     "id": 1125899,
     "enlace": "https://1a-1791.com/video/fwe2/1b/s8/2/c/m/P/q/cmPqz.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Sin Plataforma"
     ]
@@ -6381,7 +6258,6 @@
   "1127166": {
     "id": 1127166,
     "enlace": "https://hugh.cdn.rumble.cloud/video/s8/2/x/W/L/Y/xWLYq.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Netflix"
     ]
@@ -6407,10 +6283,20 @@
       "Sony"
     ]
   },
+  "1137350": {
+    "id": 1137350,
+    "enlace": [
+      "https://vidhidepro.com/v/kjdr4zkel8np",
+      "https://streamwish.top/e/utr5pjm8sxfz",
+      "https://voe.sx/e/r7nwnfyz8lpw"
+    ],
+    "plataforma": [
+      "Universal"
+    ]
+  },
   "1138194": {
     "id": 1138194,
     "enlace": "https://1a-1791.com/video/fwe2/4f/s8/2/t/y/2/b/ty2bx.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Sin Plataforma"
     ]
@@ -6418,7 +6304,6 @@
   "1139566": {
     "id": 1139566,
     "enlace": "https://hugh.cdn.rumble.cloud/video/s8/2/0/Y/7/8/0Y78p.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Netflix"
     ]
@@ -6426,7 +6311,6 @@
   "1144430": {
     "id": 1144430,
     "enlace": "https://hugh.cdn.rumble.cloud/video/fww1/14/s8/2/P/K/B/I/PKBIy.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Netflix"
     ]
@@ -6441,7 +6325,6 @@
   "1149953": {
     "id": 1149953,
     "enlace": "https://hugh.cdn.rumble.cloud/video/fww1/e8/s8/2/u/V/U/y/uVUyz.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Sin Plataforma"
     ]
@@ -6449,7 +6332,6 @@
   "1150112": {
     "id": 1150112,
     "enlace": "https://1a-1791.com/video/fww1/cf/s8/2/l/_/s/N/l_sNy.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Sin Plataforma"
     ]
@@ -6510,7 +6392,6 @@
   "1160956": {
     "id": 1160956,
     "enlace": "https://1a-1791.com/video/fww1/74/s8/2/l/l/U/V/llUVy.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Sin Plataforma"
     ]
@@ -6525,7 +6406,6 @@
   "1168190": {
     "id": 1168190,
     "enlace": "https://1a-1791.com/video/fwe2/a7/s8/2/K/e/H/U/KeHUz.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Metro Goldwyn Mayer",
       "Prime Video"
@@ -6577,7 +6457,6 @@
   "1193501": {
     "id": 1193501,
     "enlace": "https://hugh.cdn.rumble.cloud/video/fwe2/bb/s8/2/K/s/C/9/KsC9z.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Sin Plataforma"
     ]
@@ -6585,7 +6464,6 @@
   "1195506": {
     "id": 1195506,
     "enlace": "https://1a-1791.com/video/fww1/9b/s8/2/m/G/O/t/mGOty.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Paramount"
     ]
@@ -6593,7 +6471,6 @@
   "1197306": {
     "id": 1197306,
     "enlace": "https://hugh.cdn.rumble.cloud/video/fww1/1d/s8/2/j/Q/H/y/jQHyy.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Metro Goldwyn Mayer",
       "Prime Video",
@@ -6622,7 +6499,6 @@
   "1212855": {
     "id": 1212855,
     "enlace": "https://1a-1791.com/video/fww1/c3/s8/2/R/7/0/K/R70Ky.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Sin Plataforma"
     ]
@@ -6645,7 +6521,6 @@
   "1223601": {
     "id": 1223601,
     "enlace": "https://1a-1791.com/video/fwe2/4d/s8/2/M/o/y/L/MoyLz.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Sony"
     ]
@@ -6674,7 +6549,6 @@
   "1232546": {
     "id": 1232546,
     "enlace": "https://1a-1791.com/video/fww1/1e/s8/2/D/7/u/N/D7uNy.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Sony"
     ]
@@ -6689,7 +6563,6 @@
   "1233413": {
     "id": 1233413,
     "enlace": "https://hugh.cdn.rumble.cloud/video/fww1/24/s8/2/3/r/d/P/3rdPy.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Warner Bros"
     ]
@@ -6697,7 +6570,6 @@
   "1233575": {
     "id": 1233575,
     "enlace": "https://1a-1791.com/video/fww1/79/s8/2/T/L/r/A/TLrAy.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Universal"
     ]
@@ -6776,7 +6648,6 @@
   "1242419": {
     "id": 1242419,
     "enlace": "https://hugh.cdn.rumble.cloud/video/fww1/25/s8/2/0/h/U/z/0hUzz.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Paramount"
     ]
@@ -6784,7 +6655,6 @@
   "1243186": {
     "id": 1243186,
     "enlace": "https://1a-1791.com/video/fww1/55/s8/2/5/h/t/A/5htAy.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Sin Plataforma"
     ]
@@ -6800,7 +6670,6 @@
   "1244944": {
     "id": 1244944,
     "enlace": "https://1a-1791.com/video/fww1/49/s8/2/L/I/J/H/LIJHy.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Universal"
     ]
@@ -6822,7 +6691,6 @@
   "1248226": {
     "id": 1248226,
     "enlace": "https://hugh.cdn.rumble.cloud/video/fww1/13/s8/2/s/c/g/z/scgzz.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Metro Goldwyn Mayer",
       "Prime Video"
@@ -6845,7 +6713,6 @@
   "1249289": {
     "id": 1249289,
     "enlace": "https://1a-1791.com/video/fww1/3e/s8/2/j/-/H/Q/j-HQy.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Sin Plataforma"
     ]
@@ -6867,7 +6734,6 @@
   "1255788": {
     "id": 1255788,
     "enlace": "https://hugh.cdn.rumble.cloud/video/fwe1/ed/s8/2/g/N/A/o/gNAoy.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Prime Video"
     ]
@@ -6896,7 +6762,6 @@
   "1265609": {
     "id": 1265609,
     "enlace": "https://1a-1791.com/video/fww1/76/s8/2/e/k/W/8/ekW8z.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "LionsGate",
       "Netflix"
@@ -6905,7 +6770,6 @@
   "1266127": {
     "id": 1266127,
     "enlace": "https://1a-1791.com/video/fwe2/4f/s8/2/g/m/o/b/gmobA.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Sin Plataforma"
     ]
@@ -7000,7 +6864,6 @@
   "1297842": {
     "id": 1297842,
     "enlace": "https://hugh.cdn.rumble.cloud/video/fww1/41/s8/2/E/f/l/_/Efl_z.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Sony",
       "Sony Animations"
@@ -7023,7 +6886,6 @@
   "1306368": {
     "id": 1306368,
     "enlace": "https://hugh.cdn.rumble.cloud/video/fww1/96/s8/2/K/I/b/U/KIbUz.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Netflix"
     ]
@@ -7059,7 +6921,6 @@
   "1315303": {
     "id": 1315303,
     "enlace": "https://hugh.cdn.rumble.cloud/video/fww1/f7/s8/2/U/n/x/Y/UnxYz.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Paramount"
     ]
@@ -7081,7 +6942,6 @@
   "1317672": {
     "id": 1317672,
     "enlace": "https://hugh.cdn.rumble.cloud/video/fwe2/99/s8/2/K/A/K/Z/KAKZz.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Metro Goldwyn Mayer",
       "Prime Video"
@@ -7097,7 +6957,6 @@
   "1323625": {
     "id": 1323625,
     "enlace": "https://hugh.cdn.rumble.cloud/video/fwe2/43/s8/2/K/H/i/9/KHi9z.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Universal"
     ]
@@ -7105,7 +6964,6 @@
   "1323784": {
     "id": 1323784,
     "enlace": "https://1a-1791.com/video/fww1/83/s8/2/j/1/k/K/j1kKy.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Netflix"
     ]
@@ -7120,7 +6978,6 @@
   "1327819": {
     "id": 1327819,
     "enlace": "https://hugh.cdn.rumble.cloud/video/fww1/f9/s8/2/i/h/I/_/ihI_z.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Disney",
       "Pixar"
@@ -7185,7 +7042,6 @@
   "1358831": {
     "id": 1358831,
     "enlace": "https://rumble.com/hls-vod/6za782/playlist.m3u8?key=TEtCbYxMK37GgrH90xth3FdezpF7vlfqatWLpg0k5_PfZ5ZzmUaSbw&u=0&b=0",
-    "tipo": "normal",
     "plataforma": [
       "Sin Plataforma"
     ]
@@ -7236,7 +7092,6 @@
   "1389149": {
     "id": 1389149,
     "enlace": "https://1a-1791.com/video/fwe2/de/s8/2/6/U/D/3/6UD3z.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Netflix"
     ]
@@ -7251,7 +7106,6 @@
   "1393382": {
     "id": 1393382,
     "enlace": "https://1a-1791.com/video/fww1/d2/s8/2/G/V/P/-/GVP-y.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Sin Plataforma"
     ]
@@ -7266,7 +7120,6 @@
   "1417059": {
     "id": 1417059,
     "enlace": "https://1a-1791.com/video/fww1/9b/s8/2/L/T/w/T/LTwTy.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "HBO Max"
     ]
@@ -7274,7 +7127,6 @@
   "1426680": {
     "id": 1426680,
     "enlace": "https://1a-1791.com/video/fww1/a1/s8/2/_/R/w/T/_RwTy.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Netflix"
     ]
@@ -7303,7 +7155,6 @@
   "1433735": {
     "id": 1433735,
     "enlace": "https://1a-1791.com/video/fww1/e0/s8/2/t/-/U/V/t-UVy.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Sin Plataforma"
     ]
@@ -7404,7 +7255,6 @@
   "1570282": {
     "id": 1570282,
     "enlace": "https://hugh.cdn.rumble.cloud/video/fwe2/7d/s8/2/S/v/y/Y/SvyYz.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Netflix"
     ]
@@ -7412,7 +7262,6 @@
   "1575337": {
     "id": 1575337,
     "enlace": "https://1a-1791.com/video/fww1/21/s8/2/8/0/y/T/80yTz.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Anime",
       "Netflix"
@@ -7428,7 +7277,6 @@
   "1611398": {
     "id": 1611398,
     "enlace": "https://1a-1791.com/video/fww1/a0/s8/2/0/w/y/b/0wybA.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Vix"
     ]
@@ -7443,7 +7291,6 @@
   "1629382": {
     "id": 1629382,
     "enlace": "https://1a-1791.com/video/fww1/1d/s8/2/y/v/j/5/yvj5z.aaa.mp4",
-    "tipo": "normal",
     "plataforma": [
       "Netflix"
     ]
