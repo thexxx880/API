@@ -1365,7 +1365,10 @@
   },
   "10195": {
     "id": 10195,
-    "enlace": "https://voe.sx/e/w4pu6aoawztv",
+    "enlace": [
+      "https://voe.sx/e/w4pu6aoawztv"
+    ],
+    "tipo": "especial",
     "plataforma": [
       "Paramount",
       "Marvel"
