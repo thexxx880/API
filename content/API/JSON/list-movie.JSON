@@ -1,61 +1,4 @@
 {
-  "1081208": {
-    "id": 1081208,
-    "enlace": [
-      "https://voe.sx/e/xdg19pcim4k1",
-      "https://streamwish.to/e/ntmfycaelt7n",
-      "https://vidhidepro.com/v/lkge337swwa3"
-    ],
-    "tipo": "especial",
-    "plataforma": [
-      "Sin Plataforma"
-    ]
-  },
-  "1142414": {
-    "id": 1142414,
-    "enlace": [
-      "https://voe.sx/e/qovnmtwszgdr",
-      "https://streamwish.to/e/7dj7rcspjfl2"
-    ],
-    "tipo": "especial",
-    "plataforma": [
-      "Sin Plataforma"
-    ]
-  },
-  "1109406": {
-    "id": 1109406,
-    "enlace": [
-      "https://voe.sx/e/ojxpmyhxam3r",
-      "https://streamwish.to/e/xd03k1t2e2cq",
-      "https://vidhidepro.com/v/mbfcfpfebgof"
-    ],
-    "tipo": "especial",
-    "plataforma": [
-      "Sin Plataforma"
-    ]
-  },
-  "1000173": {
-    "id": 1000173,
-    "enlace": [
-      "https://voe.sx/e/53dj9i0qcgoi",
-      "https://playnixes.com/e/n8w3h6or4hms"
-    ],
-    "tipo": "especial",
-    "plataforma": [
-      "Sin Plataforma"
-    ]
-  },
-  "287084": {
-    "id": 287084,
-    "enlace": [
-      "https://voe.sx/e/lfksepj7qve7",
-      "https://bysedikamoum.com/e/ouc24shxl7jn"
-    ],
-    "tipo": "especial",
-    "plataforma": [
-      "Sin Plataforma"
-    ]
-  },
   "58": {
     "id": 58,
     "enlace": [
@@ -4745,6 +4688,16 @@
       "Warner Bros"
     ]
   },
+  "287084": {
+    "id": 287084,
+    "enlace": [
+      "https://voe.sx/e/lfksepj7qve7",
+      "https://bysedikamoum.com/e/ouc24shxl7jn"
+    ],
+    "plataforma": [
+      "Sin Plataforma"
+    ]
+  },
   "287948": {
     "id": 287948,
     "enlace": [
@@ -6197,7 +6150,12 @@
   },
   "527641": {
     "id": 527641,
-    "enlace": [],
+    "enlace": [
+      "https://hugh.cdn.rumble.cloud/video/s8/2/f/8/O/S/f8OSs.aaa.mp4",
+      "https://voe.sx/e/v9img442ezcp",
+      "https://streamwish.to/e/b8biaadc988w",
+      "https://filelions.to/v/1i0o9nth6hc1"
+    ],
     "plataforma": [
       "LionsGate"
     ]
@@ -7873,6 +7831,16 @@
       "Netflix"
     ]
   },
+  "1000173": {
+    "id": 1000173,
+    "enlace": [
+      "https://voe.sx/e/53dj9i0qcgoi",
+      "https://playnixes.com/e/n8w3h6or4hms"
+    ],
+    "plataforma": [
+      "Sin Plataforma"
+    ]
+  },
   "1000837": {
     "id": 1000837,
     "enlace": [
@@ -8202,6 +8170,17 @@
       "Sin Plataforma"
     ]
   },
+  "1081208": {
+    "id": 1081208,
+    "enlace": [
+      "https://voe.sx/e/xdg19pcim4k1",
+      "https://streamwish.to/e/ntmfycaelt7n",
+      "https://vidhidepro.com/v/lkge337swwa3"
+    ],
+    "plataforma": [
+      "Sin Plataforma"
+    ]
+  },
   "1083381": {
     "id": 1083381,
     "enlace": [
@@ -8340,6 +8319,17 @@
       "Sin Plataforma"
     ]
   },
+  "1109406": {
+    "id": 1109406,
+    "enlace": [
+      "https://voe.sx/e/ojxpmyhxam3r",
+      "https://streamwish.to/e/xd03k1t2e2cq",
+      "https://vidhidepro.com/v/mbfcfpfebgof"
+    ],
+    "plataforma": [
+      "Sin Plataforma"
+    ]
+  },
   "1114967": {
     "id": 1114967,
     "enlace": [
@@ -8466,6 +8456,16 @@
       "https://streamwish.to/e/z693yrg981iw",
       "https://vidhidepro.com/v/2ifp1h8ud4ub",
       "https://voe.sx/e/guna8fuhuxjx"
+    ],
+    "plataforma": [
+      "Sin Plataforma"
+    ]
+  },
+  "1142414": {
+    "id": 1142414,
+    "enlace": [
+      "https://voe.sx/e/qovnmtwszgdr",
+      "https://streamwish.to/e/7dj7rcspjfl2"
     ],
     "plataforma": [
       "Sin Plataforma"
