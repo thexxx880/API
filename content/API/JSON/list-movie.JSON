@@ -1,52 +1,4 @@
 {
-  "8814": {
-    "id": 8814,
-    "enlace": [
-      "https://voe.sx/e/wvknrjdpfelp",
-      "https://streamwish.to/e/b6oqqavhj253",
-      "https://callistanise.com/v/q0wrq3q82kq1",
-      "https://drive.google.com/file/d/19VFWGMk0z8VRs8KkqEpZGWMoB2HA_Nx9/view"
-    ],
-    "tipo": "especial",
-    "plataforma": [
-      "Universal"
-    ]
-  },
-  "52629": {
-    "id": 52629,
-    "enlace": [
-      "https://vimeos.net/embed-0dxj9k11duz5.html",
-      "https://drive.google.com/file/d/1ltXQamrh3EhQh1rc5yoe2EPQkyBScIhW/view"
-    ],
-    "tipo": "especial",
-    "plataforma": [
-      "Sin Plataforma"
-    ]
-  },
-  "539": {
-    "id": 539,
-    "enlace": [
-      "https://drive.google.com/file/d/1hjIwhj-D0bNWQkAyX6gaVbEpS0lRbTlf/view",
-      "https://drive.google.com/file/d/1XVsQAXV-Grchy-DePTdLp9unlgXpaK5v/view"
-    ],
-    "tipo": "especial",
-    "plataforma": [
-      "Paramount",
-      "Universal"
-    ]
-  },
-  "15789": {
-    "id": 15789,
-    "enlace": [
-      "https://vidmoly.biz/embed-xe9y97ojhhj0.html",
-      "https://drive.google.com/file/d/1OlrkqTZe92JjqOx_yUgFzEmnc5v1cwTV/view",
-      "https://drive.google.com/file/d/1yh3t4QH0OF6Fz-lZVMFZqpnurveZOGuW/view"
-    ],
-    "tipo": "especial",
-    "plataforma": [
-      "Disney"
-    ]
-  },
   "58": {
     "id": 58,
     "enlace": [
@@ -356,6 +308,17 @@
     ],
     "plataforma": [
       "Sony"
+    ]
+  },
+  "539": {
+    "id": 539,
+    "enlace": [
+      "https://drive.google.com/file/d/1hjIwhj-D0bNWQkAyX6gaVbEpS0lRbTlf/view",
+      "https://drive.google.com/file/d/1XVsQAXV-Grchy-DePTdLp9unlgXpaK5v/view"
+    ],
+    "plataforma": [
+      "Paramount",
+      "Universal"
     ]
   },
   "557": {
@@ -1306,6 +1269,18 @@
     ],
     "plataforma": [
       "Fox"
+    ]
+  },
+  "8814": {
+    "id": 8814,
+    "enlace": [
+      "https://voe.sx/e/wvknrjdpfelp",
+      "https://streamwish.to/e/b6oqqavhj253",
+      "https://callistanise.com/v/q0wrq3q82kq1",
+      "https://drive.google.com/file/d/19VFWGMk0z8VRs8KkqEpZGWMoB2HA_Nx9/view"
+    ],
+    "plataforma": [
+      "Universal"
     ]
   },
   "8856": {
@@ -2570,6 +2545,18 @@
       "Disney"
     ]
   },
+  "15789": {
+    "id": 15789,
+    "enlace": [
+      "https://vidmoly.biz/embed-xe9y97ojhhj0.html",
+      "https://streamwish.to/e/94ebk1ay9nzn",
+      "https://garylargeavailable.com/e/740fv2i0v2n0",
+      "https://callistanise.com/v/9enbydnk4lwq"
+    ],
+    "plataforma": [
+      "Disney"
+    ]
+  },
   "15969": {
     "id": 15969,
     "enlace": [
@@ -3430,6 +3417,16 @@
     ],
     "plataforma": [
       "Universal"
+    ]
+  },
+  "52629": {
+    "id": 52629,
+    "enlace": [
+      "https://vimeos.net/embed-0dxj9k11duz5.html",
+      "https://drive.google.com/file/d/1ltXQamrh3EhQh1rc5yoe2EPQkyBScIhW/view"
+    ],
+    "plataforma": [
+      "Sin Plataforma"
     ]
   },
   "53182": {
