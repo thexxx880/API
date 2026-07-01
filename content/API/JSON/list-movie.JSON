@@ -1,146 +1,4 @@
 {
-  "287590": {
-    "id": 287590,
-    "enlace": [
-      "https://filelions.to/v/p4akaeuw64pq",
-      "https://voe.sx/e/arzsv8e8cz2q",
-      "https://doodstream.com/e/97svg3zqmfzg",
-      "https://voe.sx/e/nyimfe4ls24m"
-    ],
-    "tipo": "especial",
-    "plataforma": [
-      "Anime"
-    ]
-  },
-  "50253": {
-    "id": 50253,
-    "enlace": [
-      "https://vidhidepro.com/v/4hj5qormx4ck",
-      "https://voe.sx/e/95p5hpbjnhio",
-      "https://streamwish.to/e/3t8m4cvojq1m",
-      "https://streamwish.to/e/gbttwa069ooi"
-    ],
-    "tipo": "especial",
-    "plataforma": [
-      "Anime"
-    ]
-  },
-  "83088": {
-    "id": 83088,
-    "enlace": [
-      "https://vidhidepro.com/v/odfgzxmnxvws",
-      "https://voe.sx/e/n9lazuouc3a5",
-      "https://vidhidepro.com/v/8swz945ejmle",
-      "https://streamwish.to/e/u4n9ypu34fch"
-    ],
-    "tipo": "especial",
-    "plataforma": [
-      "Anime"
-    ]
-  },
-  "455476": {
-    "id": 455476,
-    "enlace": [
-      "https://voe.sx/e/tastbh4vxrja",
-      "https://doodstream.com/e/r6i1wr7fobuj",
-      "https://streamwish.to/e/80rfc7poc3dl",
-      "https://streamwish.to/e/7ohvbr4a0tst"
-    ],
-    "tipo": "especial",
-    "plataforma": [
-      "Sony"
-    ]
-  },
-  "83090": {
-    "id": 83090,
-    "enlace": [
-      "https://vidhidepro.com/v/f4lv6isrhqo0",
-      "https://voe.sx/e/riv8wsab572v",
-      "https://vidhidepro.com/v/zbl46ytt9fwi",
-      "https://voe.sx/e/gdpoxalraajc"
-    ],
-    "tipo": "especial",
-    "plataforma": [
-      "Anime"
-    ]
-  },
-  "83091": {
-    "id": 83091,
-    "enlace": [
-      "https://vidhidepro.com/v/t2ta8q5r5lw7",
-      "https://voe.sx/e/r7ggto0s5qcw",
-      "https://vidhidepro.com/v/hmn2p3ue70em",
-      "https://voe.sx/e/uhsqk5gkym9d"
-    ],
-    "tipo": "especial",
-    "plataforma": [
-      "Anime"
-    ]
-  },
-  "15805": {
-    "id": 15805,
-    "enlace": [
-      "https://filelions.to/v/p4rkcsoga38z",
-      "https://voe.sx/e/bxf9i8saamip",
-      "https://doodstream.com/e/7d2qrrzlahvi",
-      "https://streamwish.to/e/duorg1igpyrz"
-    ],
-    "tipo": "especial",
-    "plataforma": [
-      "DC Comics",
-      "Warner Bros"
-    ]
-  },
-  "272610": {
-    "id": 272610,
-    "enlace": [
-      "https://powvideo.net/embed-usctbximwzgx.html",
-      "https://streamplay.to/embed-t8wtndz24xip.html"
-    ],
-    "tipo": "especial",
-    "plataforma": [
-      "Sin Plataforma"
-    ]
-  },
-  "324786": {
-    "id": 324786,
-    "enlace": [
-      "https://streamwish.to/e/zoukm4p5vorz",
-      "https://voe.sx/e/jkmht5puc7aa",
-      "https://doodstream.com/e/kd6lbg3pwx7t",
-      "https://streamwish.to/e/nbatunpe8fif"
-    ],
-    "tipo": "especial",
-    "plataforma": [
-      "Sin Plataforma"
-    ]
-  },
-  "1081003": {
-    "id": 1081003,
-    "enlace": [
-      "https://streamwish.to/e/5kemc4b0lm9g",
-      "https://vidhidepro.com/v/cl5n1iijvr4e"
-    ],
-    "tipo": "especial",
-    "plataforma": [
-      "DC Comics",
-      "Universal",
-      "Warner Bros"
-    ]
-  },
-  "16871": {
-    "id": 16871,
-    "enlace": [
-      "https://streamwish.to/e/jk50mchmmci7",
-      "https://filelions.to/v/gnekh3r1drxq",
-      "https://voe.sx/e/a9qozqzdqxix",
-      "https://doodstream.com/e/et5qi80owgsu"
-    ],
-    "tipo": "especial",
-    "plataforma": [
-      "Universal"
-    ]
-  },
   "58": {
     "id": 58,
     "enlace": [
@@ -2699,6 +2557,19 @@
       "Disney"
     ]
   },
+  "15805": {
+    "id": 15805,
+    "enlace": [
+      "https://filelions.to/v/p4rkcsoga38z",
+      "https://voe.sx/e/bxf9i8saamip",
+      "https://doodstream.com/e/7d2qrrzlahvi",
+      "https://streamwish.to/e/duorg1igpyrz"
+    ],
+    "plataforma": [
+      "DC Comics",
+      "Warner Bros"
+    ]
+  },
   "15969": {
     "id": 15969,
     "enlace": [
@@ -2798,6 +2669,18 @@
     ],
     "plataforma": [
       "Sin Plataforma"
+    ]
+  },
+  "16871": {
+    "id": 16871,
+    "enlace": [
+      "https://streamwish.to/e/jk50mchmmci7",
+      "https://filelions.to/v/gnekh3r1drxq",
+      "https://voe.sx/e/a9qozqzdqxix",
+      "https://doodstream.com/e/et5qi80owgsu"
+    ],
+    "plataforma": [
+      "Universal"
     ]
   },
   "17681": {
@@ -3514,6 +3397,18 @@
       "DreamWorks"
     ]
   },
+  "50253": {
+    "id": 50253,
+    "enlace": [
+      "https://vidhidepro.com/v/4hj5qormx4ck",
+      "https://voe.sx/e/95p5hpbjnhio",
+      "https://streamwish.to/e/3t8m4cvojq1m",
+      "https://streamwish.to/e/gbttwa069ooi"
+    ],
+    "plataforma": [
+      "Anime"
+    ]
+  },
   "50619": {
     "id": 50619,
     "enlace": [
@@ -3982,6 +3877,42 @@
     ],
     "plataforma": [
       "Universal"
+    ]
+  },
+  "83088": {
+    "id": 83088,
+    "enlace": [
+      "https://vidhidepro.com/v/odfgzxmnxvws",
+      "https://voe.sx/e/n9lazuouc3a5",
+      "https://vidhidepro.com/v/8swz945ejmle",
+      "https://streamwish.to/e/u4n9ypu34fch"
+    ],
+    "plataforma": [
+      "Anime"
+    ]
+  },
+  "83090": {
+    "id": 83090,
+    "enlace": [
+      "https://vidhidepro.com/v/f4lv6isrhqo0",
+      "https://voe.sx/e/riv8wsab572v",
+      "https://vidhidepro.com/v/zbl46ytt9fwi",
+      "https://voe.sx/e/gdpoxalraajc"
+    ],
+    "plataforma": [
+      "Anime"
+    ]
+  },
+  "83091": {
+    "id": 83091,
+    "enlace": [
+      "https://vidhidepro.com/v/t2ta8q5r5lw7",
+      "https://voe.sx/e/r7ggto0s5qcw",
+      "https://vidhidepro.com/v/hmn2p3ue70em",
+      "https://voe.sx/e/uhsqk5gkym9d"
+    ],
+    "plataforma": [
+      "Anime"
     ]
   },
   "83533": {
@@ -4780,6 +4711,16 @@
       "Anime"
     ]
   },
+  "272610": {
+    "id": 272610,
+    "enlace": [
+      "https://powvideo.net/embed-usctbximwzgx.html",
+      "https://streamplay.to/embed-t8wtndz24xip.html"
+    ],
+    "plataforma": [
+      "Sin Plataforma"
+    ]
+  },
   "272878": {
     "id": 272878,
     "enlace": [
@@ -4894,6 +4835,18 @@
     ],
     "plataforma": [
       "Sin Plataforma"
+    ]
+  },
+  "287590": {
+    "id": 287590,
+    "enlace": [
+      "https://filelions.to/v/p4akaeuw64pq",
+      "https://voe.sx/e/arzsv8e8cz2q",
+      "https://doodstream.com/e/97svg3zqmfzg",
+      "https://voe.sx/e/nyimfe4ls24m"
+    ],
+    "plataforma": [
+      "Anime"
     ]
   },
   "287948": {
@@ -5163,6 +5116,18 @@
     ],
     "plataforma": [
       "LionsGate"
+    ]
+  },
+  "324786": {
+    "id": 324786,
+    "enlace": [
+      "https://streamwish.to/e/zoukm4p5vorz",
+      "https://voe.sx/e/jkmht5puc7aa",
+      "https://doodstream.com/e/kd6lbg3pwx7t",
+      "https://streamwish.to/e/nbatunpe8fif"
+    ],
+    "plataforma": [
+      "Sin Plataforma"
     ]
   },
   "324852": {
@@ -5909,6 +5874,18 @@
     "plataforma": [
       "Metro Goldwyn Mayer",
       "Prime Video",
+      "Sony"
+    ]
+  },
+  "455476": {
+    "id": 455476,
+    "enlace": [
+      "https://voe.sx/e/tastbh4vxrja",
+      "https://doodstream.com/e/r6i1wr7fobuj",
+      "https://streamwish.to/e/80rfc7poc3dl",
+      "https://streamwish.to/e/7ohvbr4a0tst"
+    ],
+    "plataforma": [
       "Sony"
     ]
   },
@@ -7750,6 +7727,8 @@
   "936075": {
     "id": 936075,
     "enlace": [
+      "https://vimeos.net/embed-85qzksqyf42k.html",
+      "https://jennifereconomicgive.com/e/b5yitijkzeot",
       "https://streamwish.to/e/ug5x2vpj2hk8"
     ],
     "plataforma": [
@@ -8386,6 +8365,18 @@
     ],
     "plataforma": [
       "Sin Plataforma"
+    ]
+  },
+  "1081003": {
+    "id": 1081003,
+    "enlace": [
+      "https://streamwish.to/e/5kemc4b0lm9g",
+      "https://vidhidepro.com/v/cl5n1iijvr4e"
+    ],
+    "plataforma": [
+      "DC Comics",
+      "Universal",
+      "Warner Bros"
     ]
   },
   "1081208": {
