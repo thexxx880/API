@@ -1,4 +1,20 @@
 {
+  "687163": {
+    "id": 687163,
+    "enlace": [
+      "https://rumble.com/hls-vod/786lhg/playlist.m3u8?u=0&b=0",
+      "https://gscdn.cam/video/embed/ebe8mn2uoymx",
+      "https://gscdn.cam/video/embed/5jdx51kv8e2v",
+      "https://vimeos.net/embed-bd8fvsli4zsk.html",
+      "https://streamwish.to/e/vohwb7n7stul",
+      "https://voe.sx/e/ek57gcx1cbmn"
+    ],
+    "tipo": "especial",
+    "plataforma": [
+      "Metro Goldwyn Mayer",
+      "Prime Video"
+    ]
+  },
   "44251": {
     "id": 44251,
     "enlace": [
@@ -7493,16 +7509,6 @@
     ],
     "plataforma": [
       "Warner Bros"
-    ]
-  },
-  "687163": {
-    "id": 687163,
-    "enlace": [
-      "https://rumble.com/hls-vod/786lhg/playlist.m3u8?u=0&b=0"
-    ],
-    "plataforma": [
-      "Metro Goldwyn Mayer",
-      "Prime Video"
     ]
   },
   "691363": {
