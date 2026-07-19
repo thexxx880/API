@@ -1,57 +1,4 @@
 {
-  "687163": {
-    "id": 687163,
-    "enlace": [
-      "https://rumble.com/hls-vod/786lhg/playlist.m3u8?u=0&b=0",
-      "https://gscdn.cam/video/embed/ebe8mn2uoymx",
-      "https://gscdn.cam/video/embed/5jdx51kv8e2v",
-      "https://vimeos.net/embed-bd8fvsli4zsk.html",
-      "https://streamwish.to/e/vohwb7n7stul",
-      "https://voe.sx/e/ek57gcx1cbmn"
-    ],
-    "tipo": "especial",
-    "plataforma": [
-      "Metro Goldwyn Mayer",
-      "Prime Video"
-    ]
-  },
-  "44251": {
-    "id": 44251,
-    "enlace": [
-      "https://gscdn.cam/video/embed/maird2taaps0",
-      "https://streamwish.to/e/z56t876f26wu",
-      "https://voe.sx/e/qmchubycv0ah"
-    ],
-    "tipo": "especial",
-    "plataforma": [
-      "Anime"
-    ]
-  },
-  "1726": {
-    "id": 1726,
-    "enlace": [
-      "https://gscdn.cam/video/embed/18hbjk3nc5ch",
-      "https://vimeos.net/embed-su4jkfx8l3bt.html",
-      "https://streamwish.to/e/pmjjmwe32ech"
-    ],
-    "tipo": "especial",
-    "plataforma": [
-      "Marvel",
-      "Paramount"
-    ]
-  },
-  "460793": {
-    "id": 460793,
-    "enlace": [
-      "https://gscdn.cam/video/embed/06483q4fat9m",
-      "https://streamwish.to/e/7nbj12pjr88n",
-      "https://voe.sx/e/n160f7m8nsey"
-    ],
-    "tipo": "especial",
-    "plataforma": [
-      "Disney"
-    ]
-  },
   "58": {
     "id": 58,
     "enlace": [
@@ -5756,7 +5703,8 @@
   "355338": {
     "id": 355338,
     "enlace": [
-      "https://hugh.cdn.rumble.cloud/video/s8/2/m/p/m/H/mpmHs.aaa.mp4"
+      "https://hugh.cdn.rumble.cloud/video/s8/2/m/p/m/H/mpmHs.aaa.mp4",
+      "https://miiiixdrop.net/e/xopx9n63c7gogo"
     ],
     "plataforma": [
       "Disney",
@@ -7509,6 +7457,16 @@
     ],
     "plataforma": [
       "Warner Bros"
+    ]
+  },
+  "687163": {
+    "id": 687163,
+    "enlace": [
+      "https://rumble.com/hls-vod/786lhg/playlist.m3u8?u=0&b=0"
+    ],
+    "plataforma": [
+      "Metro Goldwyn Mayer",
+      "Prime Video"
     ]
   },
   "691363": {
