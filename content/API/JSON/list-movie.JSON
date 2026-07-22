@@ -1,4 +1,19 @@
 {
+  "181533": {
+    "id": 181533,
+    "enlace": [
+      "https://rumble.com/hls-vod/6y836q/playlist.m3u8?u=0&b=0",
+      "https://gscdn.cam/video/embed/94zmllnhh89z",
+      "https://vimeos.net/embed-vfe2koe6y1a3.html",
+      "https://streamwish.to/e/bf3qi6224u1r",
+      "https://filelions.to/v/8vh1509bvr70",
+      "https://voe.sx/e/5js5nifkpofj"
+    ],
+    "tipo": "especial",
+    "plataforma": [
+      "Fox"
+    ]
+  },
   "18360": {
     "id": 18360,
     "enlace": [
@@ -4685,15 +4700,6 @@
     ],
     "plataforma": [
       "Sin Plataforma"
-    ]
-  },
-  "181533": {
-    "id": 181533,
-    "enlace": [
-      "https://rumble.com/hls-vod/6y836q/playlist.m3u8?u=0&b=0"
-    ],
-    "plataforma": [
-      "Fox"
     ]
   },
   "183011": {
