@@ -1,4 +1,20 @@
 {
+  "17681": {
+    "id": 17681,
+    "enlace": [
+      "https://rumble.com/hls-vod/6xt2xs/playlist.m3u8?u=0&b=0",
+      "https://gscdn.cam/video/embed/sof38b5pqj78",
+      "https://vimeos.net/embed-i95c8yruizmi.html",
+      "https://voe.sx/e/tf50m26uf98t",
+      "https://hglink.to/e/0ux5r27zk7ix",
+      "https://minochinos.com/embed/oye2pglh4vcq",
+      "https://voe.sx/e/o88jwfcisicf"
+    ],
+    "tipo": "especial",
+    "plataforma": [
+      "Warner Bros"
+    ]
+  },
   "58": {
     "id": 58,
     "enlace": [
@@ -2886,15 +2902,6 @@
     ],
     "plataforma": [
       "Universal"
-    ]
-  },
-  "17681": {
-    "id": 17681,
-    "enlace": [
-      "https://rumble.com/hls-vod/6xt2xs/playlist.m3u8?u=0&b=0"
-    ],
-    "plataforma": [
-      "Warner Bros"
     ]
   },
   "18190": {
