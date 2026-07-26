@@ -1,4 +1,21 @@
 {
+  "7555": {
+    "id": 7555,
+    "enlace": [
+      "https://rumble.com/hls-vod/6x0leg/playlist.m3u8?u=0&b=0",
+      "https://gscdn.cam/video/embed/gi7hyz80cp6z",
+      "https://vimeos.net/embed-qz6m9luwth78.html",
+      "https://streamwish.to/e/1gpbxb7lif9o",
+      "https://voe.sx/e/anvytpal0l5o",
+      "https://hglink.to/e/exnles4pjosv",
+      "https://minochinos.com/embed/fj7xlwcdpfxr",
+      "https://voe.sx/e/4n3urhxzunfx"
+    ],
+    "tipo": "especial",
+    "plataforma": [
+      "Sin Plataforma"
+    ]
+  },
   "1370": {
     "id": 1370,
     "enlace": [
@@ -1605,15 +1622,6 @@
     ],
     "plataforma": [
       "LionsGate"
-    ]
-  },
-  "7555": {
-    "id": 7555,
-    "enlace": [
-      "https://rumble.com/hls-vod/6x0leg/playlist.m3u8?u=0&b=0"
-    ],
-    "plataforma": [
-      "Sin Plataforma"
     ]
   },
   "8329": {
