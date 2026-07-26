@@ -1,4 +1,23 @@
 {
+  "1366": {
+    "id": 1366,
+    "enlace": [
+      "https://hugh.cdn.rumble.cloud/video/fwe2/7d/s8/2/y/G/y/o/yGyoz.aaa.mp4",
+      "https://gscdn.cam/video/embed/ae6o33y1h1ph",
+      "https://gscdn.cam/video/embed/55e3l79qpi19",
+      "https://zonaaps-player.xyz/HLS/embed.php?v=RXNRMVF6MFgvbkZXeXplVk1NajRaU2hxREE3dVJyVEt0TzRGRWhaRmNNc2ZINFZidnAzUzJ5S2dCZDFLY1M2WW5PaDVTUG5SMVZvYmJNWjIrQlBrSVVPNzhpY0UvVFl5OG9qU09tL3pqVm4yT0RjVjNRd0JUQkp6dGFaN2RCN0NiMTd2NUpDZnZSMW10dEIrZVd4d2NaMVJhL0g3U2JHVFVKSFFLenZncStZPQ==&img=S1BtOWV3ZFdGK3llVXE5THpBSUw0SkFIZTFSU1J5N0RYa3RwTnVKZkYvakJkRHFEb3ltdExpNmRFY0MzVFhVdDBXbXB6dUFtNTRDR3R3U3E1aEpLZ29FS25DWFY5RnczYkJWdWYxNTk0YWc9&nombre_pelicula=T2U2bXJsZWkwZzU0Z0VveFVGbVFuZz09",
+      "https://vimeos.net/embed-x4n0sk1zbb51.html",
+      "https://streamwish.to/e/032kbvuhzh9y",
+      "https://voe.sx/e/yalaco0ikbfz",
+      "https://hglink.to/e/o3yroz54cjyq",
+      "https://minochinos.com/embed/xmgrtrs2wdfc",
+      "https://voe.sx/e/wnyfg7fwih2c"
+    ],
+    "tipo": "especial",
+    "plataforma": [
+      "Metro Goldwyn Mayer"
+    ]
+  },
   "1212763": {
     "id": 1212763,
     "enlace": [
@@ -901,15 +920,6 @@
     ],
     "plataforma": [
       "Warner Bros"
-    ]
-  },
-  "1366": {
-    "id": 1366,
-    "enlace": [
-      "https://hugh.cdn.rumble.cloud/video/fwe2/7d/s8/2/y/G/y/o/yGyoz.aaa.mp4"
-    ],
-    "plataforma": [
-      "Sin Plataforma"
     ]
   },
   "1367": {
