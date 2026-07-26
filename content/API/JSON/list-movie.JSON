@@ -1,4 +1,21 @@
 {
+  "522938": {
+    "id": 522938,
+    "enlace": [
+      "https://rumble.com/hls-vod/6x0lx8/playlist.m3u8?u=0&b=0",
+      "https://gscdn.cam/video/embed/4ivyfp4po7gl",
+      "https://vimeos.net/embed-jv0k58y2kjua.html",
+      "https://streamwish.to/e/iqjpv0q0uz8c",
+      "https://voe.sx/e/4myqkn2kxjwd",
+      "https://hglink.to/e/coyialfbkzrs",
+      "https://minochinos.com/embed/dev7phk91m03",
+      "https://voe.sx/e/nbuxryghohqk"
+    ],
+    "tipo": "especial",
+    "plataforma": [
+      "Sin Plataforma"
+    ]
+  },
   "7555": {
     "id": 7555,
     "enlace": [
@@ -7132,15 +7149,6 @@
     "plataforma": [
       "Sony",
       "Sony Animations"
-    ]
-  },
-  "522938": {
-    "id": 522938,
-    "enlace": [
-      "https://rumble.com/hls-vod/6x0lx8/playlist.m3u8?u=0&b=0"
-    ],
-    "plataforma": [
-      "Sin Plataforma"
     ]
   },
   "524047": {
