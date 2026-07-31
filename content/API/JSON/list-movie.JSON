@@ -1,4 +1,17 @@
 {
+  "353081": {
+    "id": 353081,
+    "enlace": [
+      "https://rumble.com/hls-vod/6x614u/playlist.m3u8?u=0&b=0",
+      "https://gscdn.cam/video/embed/yreks4bghvbs",
+      "https://1a-1791.com/video/fww1/67/s8/2/s/Z/l/j/sZljz.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=3670204416-3670277345",
+      "https://vimeos.net/embed-70wua6dwdl5w.html"
+    ],
+    "tipo": "especial",
+    "plataforma": [
+      "Paramount"
+    ]
+  },
   "177677": {
     "id": 177677,
     "enlace": [
@@ -6523,15 +6536,6 @@
     "plataforma": [
       "New Line Cinema",
       "Warner Bros"
-    ]
-  },
-  "353081": {
-    "id": 353081,
-    "enlace": [
-      "https://rumble.com/hls-vod/6x614u/playlist.m3u8?u=0&b=0"
-    ],
-    "plataforma": [
-      "Paramount"
     ]
   },
   "353491": {
