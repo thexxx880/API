@@ -1,4 +1,14 @@
 {
+  "956": {
+    "id": 956,
+    "enlace": [
+      "https://rumble.com/hls-vod/6x5zki/playlist.m3u8?u=0&b=0"
+    ],
+    "tipo": "especial",
+    "plataforma": [
+      "Paramount"
+    ]
+  },
   "955": {
     "id": 955,
     "enlace": [
@@ -1320,15 +1330,6 @@
     ],
     "plataforma": [
       "DreamWorks"
-    ]
-  },
-  "956": {
-    "id": 956,
-    "enlace": [
-      "https://rumble.com/hls-vod/6x5zki/playlist.m3u8?u=0&b=0"
-    ],
-    "plataforma": [
-      "Paramount"
     ]
   },
   "1246": {
