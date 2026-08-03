@@ -1,4 +1,17 @@
 {
+  "818": {
+    "id": 818,
+    "enlace": [
+      "https://rumble.com/hls-vod/6xur6u/playlist.m3u8?u=0&b=0",
+      "https://gscdn.cam/video/embed/aedhstw91eqb",
+      "https://voe.sx/e/3423ybky5spx"
+    ],
+    "tipo": "especial",
+    "plataforma": [
+      "New Line Cinema",
+      "Warner Bros"
+    ]
+  },
   "817": {
     "id": 817,
     "enlace": [
@@ -1670,15 +1683,6 @@
     ],
     "plataforma": [
       "Disney"
-    ]
-  },
-  "818": {
-    "id": 818,
-    "enlace": [
-      "https://rumble.com/hls-vod/6xur6u/playlist.m3u8?u=0&b=0"
-    ],
-    "plataforma": [
-      "Warner Bros"
     ]
   },
   "854": {
