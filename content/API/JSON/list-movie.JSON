@@ -1,4 +1,22 @@
 {
+  "1538573": {
+    "id": 1538573,
+    "enlace": [
+      "https://rumble.com/hls-vod/6xupls/playlist.m3u8?u=0&b=0",
+      "https://streamwish.to/e/t57oz4ssxjp6",
+      "https://voe.sx/e/klr0elsbcm5j",
+      "https://hglink.to/e/x1p4ax3kagfo",
+      "https://minochinos.com/embed/ycwrhdhx7riv",
+      "https://voe.sx/e/kxcx2dplkw7d",
+      "https://hglink.to/e/oycvug3vynfc",
+      "https://minochinos.com/embed/oasym2ujqzae",
+      "https://voe.sx/e/4kxrodjbwkj3"
+    ],
+    "tipo": "especial",
+    "plataforma": [
+      "National Geographic"
+    ]
+  },
   "1601082": {
     "id": 1601082,
     "enlace": [
@@ -12875,15 +12893,6 @@
     ],
     "plataforma": [
       "Disney"
-    ]
-  },
-  "1538573": {
-    "id": 1538573,
-    "enlace": [
-      "https://rumble.com/hls-vod/6xupls/playlist.m3u8?u=0&b=0"
-    ],
-    "plataforma": [
-      "National Geographic"
     ]
   },
   "1541827": {
