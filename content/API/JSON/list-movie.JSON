@@ -1,4 +1,19 @@
 {
+  "230896": {
+    "id": 230896,
+    "enlace": [
+      "https://rumble.com/hls-vod/6wiyxk/playlist.m3u8?u=0&b=0",
+      "https://streamwish.to/e/6o7yizirpqy3",
+      "https://voe.sx/e/vig9pp7keqj7",
+      "https://hglink.to/e/turh4uec49qa",
+      "https://minochinos.com/embed/dl95hejvj568",
+      "https://voe.sx/e/dg9o2h4xzzj9"
+    ],
+    "tipo": "especial",
+    "plataforma": [
+      "Marvel"
+    ]
+  },
   "101907": {
     "id": 101907,
     "enlace": [
@@ -6268,15 +6283,6 @@
     ],
     "plataforma": [
       "Fox"
-    ]
-  },
-  "230896": {
-    "id": 230896,
-    "enlace": [
-      "https://rumble.com/hls-vod/6wiyxk/playlist.m3u8?u=0&b=0"
-    ],
-    "plataforma": [
-      "Marvel"
     ]
   },
   "232672": {
