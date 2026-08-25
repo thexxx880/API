@@ -1,4 +1,19 @@
 {
+  "101907": {
+    "id": 101907,
+    "enlace": [
+      "https://rumble.com/hls-vod/6wiy9w/playlist.m3u8?u=0&b=0",
+      "https://gscdn.cam/video/embed/5wm7bvfldcof",
+      "https://streamwish.to/e/wdofj61g0524",
+      "https://filelions.to/v/p1kaq0c9qizn",
+      "https://voe.sx/e/05toeucgccsp"
+    ],
+    "tipo": "especial",
+    "plataforma": [
+      "LionsGate",
+      "Marvel"
+    ]
+  },
   "15257": {
     "id": 15257,
     "enlace": [
@@ -5574,17 +5589,6 @@
     ],
     "plataforma": [
       "Marvel"
-    ]
-  },
-  "101907": {
-    "id": 101907,
-    "enlace": [
-      "https://rumble.com/hls-vod/6wiy9w/playlist.m3u8?u=0&b=0"
-    ],
-    "plataforma": [
-      "LionsGate",
-      "Marvel",
-      "Marvel JR"
     ]
   },
   "102382": {
