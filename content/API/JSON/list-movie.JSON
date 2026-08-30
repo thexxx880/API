@@ -1,16 +1,4 @@
 {
-  "1204680": {
-    "id": 1204680,
-    "enlace": [
-      "https://streamwish.to/e/3boo58zc2v1g",
-      "https://vidhidepro.com/v/bx5glg7s3gxk",
-      "https://voe.sx/e/udmdgqeacynr"
-    ],
-    "tipo": "especial",
-    "plataforma": [
-      "Warner Bros"
-    ]
-  },
   "18": {
     "id": 18,
     "enlace": [
@@ -273,7 +261,6 @@
       "https://voe.sx/e/2o05qoq74jeu",
       "https://vimeos.net/embed-j4l59ik06b74.html"
     ],
-    "tipo": "especial",
     "plataforma": [
       "Metro Goldwyn Mayer"
     ]
@@ -5238,7 +5225,6 @@
       "https://voe.sx/e/yd75ca1lbyhj",
       "https://vimeos.net/embed-ynwa712chuak.html"
     ],
-    "tipo": "especial",
     "plataforma": [
       "Marvel"
     ]
@@ -11886,6 +11872,15 @@
     ],
     "plataforma": [
       "Netflix"
+    ]
+  },
+  "1204680": {
+    "id": 1204680,
+    "enlace": [
+      "https://voe.sx/e/m3oeyzxrcyjx"
+    ],
+    "plataforma": [
+      "Warner Bros"
     ]
   },
   "1209288": {
